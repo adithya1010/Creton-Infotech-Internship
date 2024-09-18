@@ -6,14 +6,21 @@ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+![Creton infotech](https://media.licdn.com/dms/image/v2/D5622AQGUv9epHMYT0w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1723447010970?e=2147483647&v=beta&t=LR8d7ESuHbyd0kz09eFHo3PiGG2gYSQpyYpckSKb3fo)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Creton Infotech Internships:
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+**Task-1: Create a Simple Calculator**
 
-Happy Coding!
+Code: [calculator-creton-infotech (scrimba.com)](https://v2.scrimba.com/s03dgedmab)
+
+**Tech Stack Used:**
+1. HTML/CSS
+2. JavaScript
+3. Scrimba 
+4. StackEdit
+5. Git
+
+
+**Output:**
+
