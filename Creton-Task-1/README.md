@@ -24,4 +24,5 @@ Code: [calculator-creton-infotech (scrimba.com)](https://v2.scrimba.com/s03dgedm
 
 
 **Output:**
+![image](https://github.com/user-attachments/assets/9399bf2b-1fb8-4081-a19c-17f46a6511d3)
 
